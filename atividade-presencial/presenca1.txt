@@ -1,8 +1,0 @@
-Presença 1
-
-1) O conceito de dados pode ser definido como valores fisicamente
-registrados no banco de dados
-2) Informação pode se referir ao "significado" desses valores
-para algum usuário
-3)
-4) Banco de dados é um depósito de dados armazenados
