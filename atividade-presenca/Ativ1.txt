@@ -1,0 +1,4 @@
+1) Se refere aos valores fisicamente registrados no banco de dados
+2) Se refere ao singificado desses valores para algum usuário
+3) É uma coleção de registros que podem ou não estar ordenados
+4) Coleção de dados relacionados

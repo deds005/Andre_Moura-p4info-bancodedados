@@ -1,0 +1,11 @@
+2 entidades: Cliente e produto
+
+Cada cliente pode comprar vários produtos e cada produto pode ser comprado
+por vários clientes.
+
+a entidade cliente possui os atributos: ID_CPF, nome, nascimento
+a entidade produto possui os atributos: ID_pro, produto, preco 
+
+Nesse relacionamento é necessário criar uma entidade associativa "compras"
+Nela nós teremos os atributos: ID_CPF(chave estrangeira), ID_pro(chave estrangeira),ID_compras(primary key), quantidade de produtos, valor_total
+

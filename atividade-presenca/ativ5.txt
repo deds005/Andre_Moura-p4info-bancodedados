@@ -1,0 +1,13 @@
+a) Cardinalidade máxima é o número máximo de ocorrências de uma entidade associadas a ocorrência de outra entidade através de um relacionamento
+Cardinalidade mínima é o número mínimo de ocorrências de uma entidade associada a ocorrência de outra entidade através de um relacionamento
+A cardinalidade mínima pode ser 0 ou 1
+cardinalidade máxima pode ser 1 ou muitos (n)
+Um exemplo de cardinalidade máxima, é que uma entidade departamento se relaciona com uma entidade empregado, nesse caso, cada departamento pode ter vários
+empregados (n), mas cada empregado só pode ter no máximo 1 departamento
+Um exemplo de cardinalidade minima pode ser o mesmo do exemplo passado, cada empregado deve ter no mínimo um departamento, e cada departamento deve ter no mínimo um empregado
+
+b) uma entidade marido e uma esposa, cada marido pode se relacionar no máximo com uma esposa e vice-versa
+
+c) Uma entidade aluno e outra cursos, cada aluno só pode se inscrever em um curso, mas um curso pode ter vários alunos inscritos
+
+d) Uma entidade médico e outra paciente, um médico pode ter consulta com vários pacientes e um paciente pode se consultar com vários médicos                  

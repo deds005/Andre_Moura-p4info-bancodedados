@@ -1,0 +1,19 @@
+CREATE TABLE "exemplo" (
+	´ID´ INT AUTO_INCREMENT NOT NULL,
+	´nome´ VARCHAR(255) NOT NULL UNIQUE,
+	´nascimento´DATE,
+	PRIMARY KEY(ID)
+
+);
+
+INSERT INTO exemplo(nome, nascimento)
+VALUES('joao', '2005-03-03')
+
+SELECT * FROM exemplo
+
+UPDATE exemplo
+SET nome = 'maria'
+WHERE ID = '
+
+DELETE FROM exemplo
+WHERE ID = 1

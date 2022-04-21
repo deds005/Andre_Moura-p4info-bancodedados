@@ -1,0 +1,17 @@
+a) Entidade representa 'algo' do mundo real, pode ser um objeto com uma existência física
+ou um objeto com uma existência conceitual.
+
+b) Conjunto de associações entre entidades sobre as quais deseja-se
+manter informações na base de dados
+
+c) Um atributo representa o uso de um domínio dentro de uma relação, existem atributos dentro dos domínios
+
+d)
+
+e) Especialização é o processo de definir um conjunto de subclasses de uma entidade.
+Generalização é o processo inverso da especialização, é feito a generalização das subclasses em uma superclasse
+
+
+
+g) Numero de ocorrencia de uma entidade que podem estar associadas 
+a uma determinado ocorrência de entidade através do relacionamento
