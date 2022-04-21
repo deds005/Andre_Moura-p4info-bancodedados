@@ -1,0 +1,9 @@
+a) Tabela é um conjunto de registros
+b) Chave primária unifica, diferencia, identifica cada tupla
+c) Chave estrangeira é a chave primária de outra tabela, identifica um registro de outra tabela
+d) Chave alternativa é uma chave candidata que não seja a chave primária
+e) DOminio da coluna é um campo de uma tabela
+f)
+g)
+h)
+i) Classificada entre duas relações e é usada para manter a consistência entre as tuplas nas duas relações
