@@ -1,0 +1,2 @@
+A arquitetura do banco de dados deve estar de acordo com o tempo que o banco de dados
+vai abordar, deve estar de acordo com as datas inseridas no banco de dados.
