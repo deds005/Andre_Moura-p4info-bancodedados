@@ -11,7 +11,7 @@ d)
 e) Especialização é o processo de definir um conjunto de subclasses de uma entidade.
 Generalização é o processo inverso da especialização, é feito a generalização das subclasses em uma superclasse
 
-
+f) Entidade associativa é uma entidade criada para consolidar um relacionamento de n:n
 
 g) Numero de ocorrencia de uma entidade que podem estar associadas 
 a uma determinado ocorrência de entidade através do relacionamento
