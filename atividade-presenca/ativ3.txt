@@ -1,0 +1,9 @@
+Modelagem conceitual -> Ocorre a criação de um esquema conceitual para o banco de dados, 
+utilizando um modelo de dados conceitual de alto nivel
+
+Projeto lógico -> é a fase de mapeamento do modelo de dados, nessa fase ocorre
+a transformação do esquema conceitual de um modelo de dados de alto nível em um modelo de dados
+de implementação
+
+Projeto físico -> São definidas as estruturas de armazenamento interno, índices,
+caminhos de acesso e organizações de arquivo para os arquivos do banco de dados.

@@ -1,0 +1,5 @@
+1) Em um sistema isolado, a principal característica é que os dados não são compartilhados, ou seja,
+os dados não podem ser compartilhados entre diferentes usuários
+
+2) É um sistema onde há como que a unificação de diversos arquivos que, de outra forma, seriam distintos, eliminando
+parcial ou totalmente qualquer redundância entre aqueles arquivos
