@@ -8,8 +8,8 @@ exports.up = function(knex) {
         table.double('sequencial').notNullable();
         table.integer('quantidade').notNullable();
         table.double('valor').notNullable();
-        table.foreign('produto').references('id').inTable('Produto');
-        table.foreign('notaFiscal').references('id').inTable('NotaFiscalVenda');
+        table.integer('produto').references('id').inTable('Produto');
+        table.integer('notaFiscal').references('id').inTable('NotaFiscalVenda');
     })
 };
 
@@ -20,3 +20,5 @@ exports.up = function(knex) {
 exports.down = function(knex) {
     return knex.schema.dropTable('ItemNotaFiscal');
 };
+
+

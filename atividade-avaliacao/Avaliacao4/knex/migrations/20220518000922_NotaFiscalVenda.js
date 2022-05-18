@@ -8,7 +8,7 @@ exports.up = function(knex, Promise) {
         table.double('codigo').notNullable();
         table.string('data').notNullable();
         table.double('valorNota').notNullable();
-        table.foreign('cliente').references('id').inTable('cliente');
+        table.integer('cliente').references('id').inTable('cliente');
         
     })
 };
